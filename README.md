@@ -3,7 +3,7 @@ Check if a given number is inside the range of two numbers, the result is limite
 
 **Installation:**
 
-    npm install keepinrange
+    npm install keep-in-range --save
 
 **API:**
 ```js
