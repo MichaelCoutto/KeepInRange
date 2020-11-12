@@ -1,5 +1,5 @@
 {
-  "name": "keepinrange",
+  "name": "keep-in-range",
   "version": "1.0.1",
   "description": "Check if a given number is inside the range of two numbers, the result is limited by the ranges",
   "main": "index.js",
