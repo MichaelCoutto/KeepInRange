@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "publishConfig": {
+    "registry":"https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MichaelCoutto/KeepInRange.git"

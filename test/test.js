@@ -24,6 +24,10 @@ describe("Keep In Range", function() {
             assert.strictEqual(keepInRange(250, 100, 200), 200);
         });
 
+        it("Should return -5.12", function() {
+			assert.strictEqual(keepInRange(-5.12, -10, 10), -5.12);
+		});
+
     });
 
 });

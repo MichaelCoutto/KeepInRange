@@ -1,5 +1,5 @@
 # Keep In Range
-Check if a given number is inside the range of two numbers, the result is limited by the ranges.
+Check if a given number is inside the range of two numbers, the result is limited by the ranges. Also works with decimal numbers
 
 **Installation:**
 
